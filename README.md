@@ -1,4 +1,4 @@
-# php-web-shell
+# A Simple Web Shell used for Remote Code Execution.
 _____________________________________________________________________________________
 **Description:** A Simple PHP Web Shell used for Remote Code Execution.
 _____________________________________________________________________________________
